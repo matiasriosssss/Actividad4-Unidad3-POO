@@ -1,0 +1,11 @@
+dni,nombre,direccion,telefono,fecha_inicio,fecha_finalizado,horas_trabajadas,valor_hora_trabajada
+1111,Pepito Juano,Calle Principal 123,123456789,2022-01-01,2022-02-28,160,1000
+2222,Fulana Sosa,Avenida Central 456,987654321,2022-02-15,2022-03-31,140,1000
+3333,Marcelo Zepeda,Plaza Mayor 789,456123789,2022-03-01,2022-05-31,200,1000
+4444,Federica Gonzales,Calle Secundaria 456,321987654,2022-04-01,2022-06-30,90,1000
+5555,Martina Resio,Avenida Principal 789,654987321,2022-05-15,2022-08-31,240,1000
+6666,Lautaro Richetti,Calle Central 123,789321654,2022-06-01,2022-07-31,160,1000
+7777,Silvia Lopez,Avenida Secundaria 456,987123654,2022-07-15,2022-09-30,180,1000
+8888,Mariano Castro,Plaza Central 789,123456987,2022-08-01,2022-11-30,220,1000
+9999,Elisa Suipacha,Calle Principal 123,654321987,2022-09-15,2022-10-31,160,1000
+0000,Agustin Palavecino,Avenida Central 456,321654987,2022-10-01,2022-12-31,200,1000
